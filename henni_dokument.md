@@ -4,7 +4,7 @@
 - 3D first person Ansicht
 - Psycho Horror 
 -> Gefühl, man wird verfolgt/beobachtet
-- Low Poly und/oder Pixel Optik
+- Low Poly und/oder Pixel Optik (8 bzw 16bit filter?)
 
 ## Gameplay
 - Bewegung durch 3D Umgebung
