@@ -12,7 +12,7 @@
 - Steuerung mit Maus und Tastatur
 - Interaktion mit Gegenständen/Objekten durch Mausklick
 - Zusammenfügen von Objekten
-- Rätselmechaniken auch durch Maus und Tastatur (WASD und Zahlen
+- Rätselmechaniken auch durch Maus und Tastatur (WASD und Zahlen)
 
 ## Location & Szenerie:
 - Altes "verlassenens" Haus mitten im Nirgendwo
